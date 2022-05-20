@@ -1,5 +1,1 @@
-## Frontend
-[![Docker](https://github.com/ClientSearch/frontend/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/ClientSearch/frontend/actions/workflows/docker-publish.yml)
-
-## Backend
-[![Docker](https://github.com/ClientSearch/backend/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/ClientSearch/backend/actions/workflows/docker-publish.yml)
+[![Frontend](https://github.com/ClientSearch/frontend/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/ClientSearch/frontend/actions/workflows/docker-publish.yml) [![Backend](https://github.com/ClientSearch/backend/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/ClientSearch/backend/actions/workflows/docker-publish.yml)
